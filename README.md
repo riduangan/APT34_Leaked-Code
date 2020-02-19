@@ -9,7 +9,7 @@ They started to leak the data since March 26 on Telegram via an archive file wit
 
 
 
-Feb 2020 Update
+# Feb 2020 Update
 
 APT34/OilRig and APT33/Elfin have established a highly developed and persistent infrastructure that could be converted to distribute destructive wiper malware.
 
