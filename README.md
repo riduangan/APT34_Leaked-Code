@@ -20,7 +20,7 @@ Below are the TTP used by APT34 but unverified (by ClearSky)- https://www.clears
 
 ![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools1.png)
 ![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools2.png)
-![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools3.png)
+![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxkittenTools3.png)
 
 
 
