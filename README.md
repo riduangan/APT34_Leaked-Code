@@ -16,4 +16,11 @@ APT34/OilRig and APT33/Elfin have established a highly developed and persistent 
 The Fox Kitten Toolset
 The initial infection vector has been the exploitation of recently disclosed vulnerabilities in different VPN services such as Pulse Secure VPN, Fortinet VPN and Global Protect by Palo Alto Networks.
 
+Below are the TTP used by APT34 but unverified (by ClearSky)- https://www.clearskysec.com/
+
 ![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools1.png)
+![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools2.png)
+![alt text](https://github.com/riduangan/APT34_Leaked-Code/blob/master/FoxKittenTools3.png)
+
+
+
